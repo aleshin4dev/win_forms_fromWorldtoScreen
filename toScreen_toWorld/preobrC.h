@@ -1,0 +1,1 @@
+int Coord(double Os, double Osp, int Scr);
